@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Project Name="LuaEventTest.luaprj" Cmd="" Arg="" Dir="" Toggle="false" >
+    <Filter RelativePath=".\..\..\Scripts" Toggle="false" >
+        <LuaFile RelativePath=".\eventlib.lua" />
+        <LuaFile RelativePath=".\events.lua" />
+        <LuaFile RelativePath=".\main.lua" />
+    </Filter>
+</Project>
